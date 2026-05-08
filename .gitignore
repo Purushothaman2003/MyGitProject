@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore a folder
+documents/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore node_modules folder
+node_modules/
